@@ -1,0 +1,9 @@
+name: bilibilierauthor
+version: 3.4.2
+description: Auth the Bilibilier
+author: stupidfish
+main: bauthor.stupidfish.core.setup
+commands:
+  bauthor:
+    aliases: [ bilibilierauthor,BILIBILIERAUTHOR,bauthor,BAUTHOR ]
+    permission: bauthor.auth
